@@ -1,0 +1,4 @@
+body{font-family:sans-serif;text-align:center;background:#f3f4f6;}
+.app-container{max-width:400px;margin:auto;}
+input,button{margin:5px;padding:10px;}
+#chat-box{height:150px;overflow:auto;background:#fff;margin:10px;}
